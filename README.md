@@ -67,6 +67,6 @@ A few things I like to do
 
 * 🎮 PS4
 * ⚽ Soccer
-* 🍹 Hanging out with friends (currently not happening :microbe:)
+* 🍹 Hanging out (currently not happening :microbe:)
 * 📺 Movies and TV shows
 * 📚 Studying
