@@ -10,7 +10,7 @@
 
 <p align="center">
   <!-- Visitors Badge -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=adnanazmee/rodrigogama" alt="Visitors Badge" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=rodrigogama" alt="Visitors Badge" />
   
   <!-- Linkedin Badge -->
   <a href="https://www.linkedin.com/in/rodrigo-gama-baptista/" target="_blank">
