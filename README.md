@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://user-images.githubusercontent.com/1108261/111002547-689cb200-8364-11eb-9130-ad135120e3c6.gif" width="30px"> Hi, I'm Rodrigo Gama</h1>
 
 <!--
-![visitors](https://visitor-badge.glitch.me/badge?page_id=adnanazmee/rodrigogama)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rodrigogama)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-gama-baptista/)](https://www.linkedin.com/in/rodrigo-gama-baptista/)
 [![Instagram Badge](https://img.shields.io/badge/@orodrigogama-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/orodrigogama/)](https://www.instagram.com/orodrigogama/)
 [![Medium Badge](https://img.shields.io/badge/-@rodrigogamadev-12100E?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@rodrigogamadev)](https://medium.com/@rodrigogamadev)
