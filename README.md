@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/1108261/111002547-689cb200-8364-11eb-9130-ad135120e3c6.gif" width="30px"> Hi, I'm Rodrigo Gama</h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/1108261/111002547-689cb200-8364-11eb-9130-ad135120e3c6.gif" width="30px"> Hi, I'm Rodrigo</h1>
 
 <!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rodrigogama)
