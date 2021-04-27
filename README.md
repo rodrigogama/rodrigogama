@@ -9,8 +9,10 @@
 -->
 
 <p align="center">
-  <!-- Visitors Badge -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=rodrigogama" alt="Visitors Badge" />
+  <!-- Twitter Badge -->
+  <a href="https://twitter.com/rodrigogamadev" target="_blank">
+    <img src="https://img.shields.io/badge/-@rodrigogamadev-blueviolet?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/rodrigogamadev" alt="Twitter Badge" />
+  </a>
   
   <!-- Linkedin Badge -->
   <a href="https://www.linkedin.com/in/rodrigo-gama-baptista/" target="_blank">
