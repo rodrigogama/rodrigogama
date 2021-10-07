@@ -29,7 +29,7 @@
 
   <a href="https://api.daily.dev/get?r=rodrigogama" target="_blank">
     <img
-      width="384"
+      width="360"
       align="right"
       src="https://raw.githubusercontent.com/rodrigogama/rodrigogama/main/devcard.svg"
     />
