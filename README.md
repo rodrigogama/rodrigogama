@@ -1,39 +1,41 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/1108261/111002547-689cb200-8364-11eb-9130-ad135120e3c6.gif" width="30px"> Hi, I'm Rodrigo</h1>
+<h1 align="left">Hi there! <img src="https://user-images.githubusercontent.com/1108261/111002547-689cb200-8364-11eb-9130-ad135120e3c6.gif" width="30px"></h1>
 
-<!--
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rodrigogama)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-gama-baptista/)](https://www.linkedin.com/in/rodrigo-gama-baptista/)
-[![Instagram Badge](https://img.shields.io/badge/@orodrigogama-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/orodrigogama/)](https://www.instagram.com/orodrigogama/)
-[![Medium Badge](https://img.shields.io/badge/-@rodrigogamadev-12100E?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@rodrigogamadev)](https://medium.com/@rodrigogamadev)
-[![Gmail Badge](https://img.shields.io/badge/-rodrigogamadev-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rodrigogamadev@gmail.com)](mailto:rodrigogamadev@gmail.com)
--->
-
-<p align="center">
+<div align="left">  
   <!-- Twitter Badge -->
-  <a href="https://twitter.com/rodrigogamadev" target="_blank">
-    <img src="https://img.shields.io/badge/-@rodrigogamadev-blueviolet?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/rodrigogamadev" alt="Twitter Badge" />
+  <a href="https://twitter.com/rodrigogamadev">
+    <img
+      src="https://img.shields.io/twitter/follow/rodrigogamadev?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      alt="Twitter"
+    />
   </a>
   
   <!-- Linkedin Badge -->
-  <a href="https://www.linkedin.com/in/rodrigo-gama-baptista/" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-gama-baptista/" alt="Linkedin Badge" />
+  <a href="https://www.linkedin.com/in/rodrigogamadev/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
   </a>
   
   <!-- Instagram Badge -->
-  <a href="https://www.instagram.com/orodrigogama/" target="_blank">
-    <img src="https://img.shields.io/badge/@orodrigogama-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/orodrigogama/" alt="Instagram Badge" />
+  <a href="https://www.instagram.com/rodrigogamadev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?logo=instagram&logoColor=fff&style=flat-square&color=0072b1&label=Instagram&message=%E2%98%86" alt="Instagram Badge" />
   </a>
   
   <!-- Medium Badge -->
   <a href="https://medium.com/@rodrigogamadev" target="_blank">
-    <img src="https://img.shields.io/badge/-@rodrigogamadev-12100E?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@rodrigogamadev" alt="Medium Badge" />
+    <img src="https://img.shields.io/static/v1?logo=medium&logoColor=fff&style=flat-square&color=0072b1&label=Medium&message=%E2%98%86" alt="Medium Badge" />
   </a>
-  
-  <!-- Gmail Badge -->
-  <a href="mailto:rodrigogamadev@gmail.com">
-    <img src="https://img.shields.io/badge/-rodrigogamadev-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rodrigogamadev@gmail.com" alt="Gmail Badge" />
+
+  <a href="https://api.daily.dev/get?r=rodrigogama" target="_blank">
+    <img
+      width="384"
+      align="right"
+      src="https://raw.githubusercontent.com/rodrigogama/rodrigogama/main/devcard.svg"
+    />
   </a>
-</p>
+</div>
+
 
 Welcome to my profile! I'm a Frontend Engineer who loves coding and learning new things. Currently I'm working at [ADDI](https://co.addi.com/), a technology company powering and enabling digital commerce across Latin America. Thanks for visiting and feel free to [connect](https://www.linkedin.com/in/rodrigo-gama-baptista/)!
 
@@ -43,32 +45,9 @@ Welcome to my profile! I'm a Frontend Engineer who loves coding and learning new
 
 Here are a few things I like to work with.
 
-* :atom_symbol: React
-* 💅 Styled-components
-* 🔥 Next.js
-* 🌐 HTML | CSS
-* 🎉 Framer Motion
+* :atom_symbol: React | Next.js | JavaScript
+* 💅 Styled-components | Tailwind CSS
+* 🎉 Framer Motion | GSAP | Three.js
 * ☁ Firebase
 * 🚀 Node.js
 * :octocat: Git | Github
-
-<!--
-## :nerd_face: Learning
-
-Topics I'm currently learning or interested in
-
-* TypeScript
-* GSAP
-* Three.js
-* WebGL
--->
-
-## 🎮 Hobbies
-
-A few things I like to do
-
-* 🎮 PS4
-* ⚽ Soccer
-* 🍹 Hanging out (currently not happening :microbe:)
-* 📺 Movies and TV shows
-* 📚 Studying
