@@ -37,7 +37,7 @@
 </div>
 
 
-Welcome to my profile! I'm a Frontend Engineer who loves coding and learning new things. Currently I'm working at [ADDI](https://co.addi.com/), a technology company powering and enabling digital commerce across Latin America. Thanks for visiting and feel free to [connect](https://www.linkedin.com/in/rodrigo-gama-baptista/)!
+Welcome to my profile! I'm a Frontend Engineer who loves coding and learning new things. Currently I'm working at [Personio](https://www.personio.com/), one of the fastest-growing HR software providers for small and midsize companies in Europe. Thanks for visiting and feel free to [connect](https://www.linkedin.com/in/rodrigogamadev/)!
 
 <h5 align="center"><em>If you never did, you should. These things are and fun is good! 🎩</em></h5>
 
